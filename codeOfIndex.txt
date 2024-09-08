@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>My simple website</title>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	<body>
+		<h1>Athbah</h1> 
+
+		<p> Hello! my name is Athbah and I enjoy reading, writing, and swimming! </p>
+
+		<div> <img src="C:\Users\Exam\Desktop\Lab1\books.jpg" alt="Picture of books"> </div>
+		
+		<div> My favorite website: <a href="https://www.goodreads.com/">Website</a> </div>
+		
+		<div>
+			<h5>Favorite activities</h5>
+			<ul><li>reading</li><li>writing</li><li>swimming</li><ul>
+		</div>
+		
+		<div>
+			<h5>Reading tips</h5>
+			<ol><li>Pick a genre you enjoy</li><li>sit in a comfortable position</li><li>have a clear mindset</li></ol>
+		</div>
+		 
+	</body>
+
+</html>
